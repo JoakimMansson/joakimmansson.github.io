@@ -1,0 +1,18 @@
+# _config.yml
+
+title: "Joakim Månsson website"
+description: "A description of my personal website"
+baseurl: "" # Leave this blank for GitHub Pages user sites
+url: "https://joakimmansson.github.io" # Your GitHub Pages URL
+
+remote_theme: "mmistakes/minimal-mistakes" # Sets up Minimal Mistakes as a remote theme
+
+# Jekyll plugins
+plugins:
+  - jekyll-remote-theme # Required if using GitHub Pages
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Optional social media settings
+#twitter_username: your_twitter_username
+github_username: joakimmansson
