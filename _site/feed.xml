@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Joakim Månsson</title>
+    
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Korea University</title>
+        <description>
+          Seoul, South Korea - 
+          Began studies at Korea University for one semester. Courses taken include: Optimization Theory, Neural Networks, Artificial Intelligence in Healthcare, and Computer Vision.
+
+        </description>
+        <pubDate>Sun, 01 Sep 2024 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2024-09-01-Korea-University/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-09-01-Korea-University/</guid>
+      </item>
+    
+      <item>
+        <title>Huawei Hackathon</title>
+        <description>
+          Stockholm, Sweden - 
+          I attended Huawei Hackathon 2023 in Stockholm. We implemented an algorithm for optimizing the deployment of Radio Access Networks (RAN) computations in the context of 5G telecommunications. We placed 5:th in the competition out of 73 total teams. The Qualification Task Your browser does not support iframes. You can download...
+        </description>
+        <pubDate>Sat, 02 Dec 2023 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2023-12-02-Huawei-Hackathon/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-12-02-Huawei-Hackathon/</guid>
+      </item>
+    
+      <item>
+        <title>SkyDrones</title>
+        <description>
+          Porto Alegre, Brazil - 
+          I had the incredible opportunity to work with SkyDrones, a drone company in Porto Alegre, where I implemented a CAN communication system that brought significant cost savings to both the company and its customers. My role also involved developing and refining algorithms, including object avoidance, and actively contributing to the...
+        </description>
+        <pubDate>Wed, 02 Aug 2023 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2023-08-02-SkyDrones/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-08-02-SkyDrones/</guid>
+      </item>
+    
+      <item>
+        <title>The Solar Team</title>
+        <description>
+          Halmstad, Sweden - 
+          I had the role as a Low Voltage Engineer in Halmstad University Solar Team (HUST). In HUST we developed a purely solar powered vehicle, designed to compete in Australia in the Bridgestone World Solar challenge. We worked on this vehicle for 2 years and I was responsible for all the...
+        </description>
+        <pubDate>Wed, 02 Mar 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2022-03-02-HUST/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-03-02-HUST/</guid>
+      </item>
+    
+      <item>
+        <title>Halmstad University</title>
+        <description>
+          Halmstad, Sweden - 
+          Began studies at Halmstad University to Master of Science in Computer Science and Engineering. Courses includes, to name a few: Linear Algebra, Calculus, Advanced Programming, Real-Time Embedded Systems, and Artificial Intelligence.
+
+        </description>
+        <pubDate>Tue, 01 Sep 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2020-09-01-Halmstad-University/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-09-01-Halmstad-University/</guid>
+      </item>
+    
+      <item>
+        <title>Hello World</title>
+        <description>
+          
+          
+
+        </description>
+        <pubDate>Sat, 21 Jul 2001 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2001-07-21-Hello-World/</link>
+        <guid isPermaLink="true">http://localhost:4000/2001-07-21-Hello-World/</guid>
+      </item>
+    
+  </channel>
+</rss>

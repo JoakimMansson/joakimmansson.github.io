@@ -1,0 +1,19 @@
+current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20241107-9690-22endc sitelibdir\=./.gem.20241107-9690-22endc clean
+
+current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20241107-9690-22endc sitelibdir\=./.gem.20241107-9690-22endc
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20241107-9690-22endc sitelibdir\=./.gem.20241107-9690-22endc install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20241107-9690-22endc
+
+current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20241107-9690-22endc sitelibdir\=./.gem.20241107-9690-22endc clean
