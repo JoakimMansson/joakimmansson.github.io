@@ -77,7 +77,7 @@ function connectParticles() {
 
       if (distance < maxDistance) {
         const opacity = 1 - distance / maxDistance; // Fading effect for lines
-        ctx.strokeStyle = `rgba(50, 0, 0, ${opacity})`;
+        ctx.strokeStyle = `rgba(0, 0, 50, ${opacity})`;
         ctx.lineWidth = 0.5;
         ctx.beginPath();
         ctx.moveTo(particles[a].x, particles[a].y);
