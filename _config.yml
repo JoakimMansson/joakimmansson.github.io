@@ -295,6 +295,8 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - vendor # TESTING TO EXCLUDE VENDOR BECAUSE OF GITHUB PAGES BUILD ERROR
+
 
 plugins:
   - jekyll-paginate
