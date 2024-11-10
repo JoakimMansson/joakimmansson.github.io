@@ -299,7 +299,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
+  - jekyll-seo-tag
 
 # For adding posts under the projects section
 collections:
