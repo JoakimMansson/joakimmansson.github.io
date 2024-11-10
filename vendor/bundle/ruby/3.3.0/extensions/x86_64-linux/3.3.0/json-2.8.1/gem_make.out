@@ -9,16 +9,16 @@ checking for whether -std=c99 is accepted as CFLAGS... yes
 creating Makefile
 
 current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.8.1/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20241110-52810-ha7mer sitelibdir\=./.gem.20241110-52810-ha7mer clean
+make DESTDIR\= sitearchdir\=./.gem.20241110-60216-c3y0pd sitelibdir\=./.gem.20241110-60216-c3y0pd clean
 
 current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.8.1/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20241110-52810-ha7mer sitelibdir\=./.gem.20241110-52810-ha7mer
+make DESTDIR\= sitearchdir\=./.gem.20241110-60216-c3y0pd sitelibdir\=./.gem.20241110-60216-c3y0pd
 compiling parser.c
 linking shared-object json/ext/parser.so
 
 current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.8.1/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20241110-52810-ha7mer sitelibdir\=./.gem.20241110-52810-ha7mer install
-/usr/bin/install -c -m 0755 parser.so ./.gem.20241110-52810-ha7mer/json/ext
+make DESTDIR\= sitearchdir\=./.gem.20241110-60216-c3y0pd sitelibdir\=./.gem.20241110-60216-c3y0pd install
+/usr/bin/install -c -m 0755 parser.so ./.gem.20241110-60216-c3y0pd/json/ext
 
 current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.8.1/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20241110-52810-ha7mer sitelibdir\=./.gem.20241110-52810-ha7mer clean
+make DESTDIR\= sitearchdir\=./.gem.20241110-60216-c3y0pd sitelibdir\=./.gem.20241110-60216-c3y0pd clean

@@ -3,10 +3,10 @@ current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby
 creating Makefile
 
 current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.10/ext/commonmarker
-make DESTDIR\= sitearchdir\=./.gem.20241110-39802-3u7zxy sitelibdir\=./.gem.20241110-39802-3u7zxy clean
+make DESTDIR\= sitearchdir\=./.gem.20241110-60216-apqmw2 sitelibdir\=./.gem.20241110-60216-apqmw2 clean
 
 current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.10/ext/commonmarker
-make DESTDIR\= sitearchdir\=./.gem.20241110-39802-3u7zxy sitelibdir\=./.gem.20241110-39802-3u7zxy
+make DESTDIR\= sitearchdir\=./.gem.20241110-60216-apqmw2 sitelibdir\=./.gem.20241110-60216-apqmw2
 compiling arena.c
 compiling autolink.c
 compiling blocks.c
@@ -58,8 +58,8 @@ compiling xml.c
 linking shared-object commonmarker/commonmarker.so
 
 current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.10/ext/commonmarker
-make DESTDIR\= sitearchdir\=./.gem.20241110-39802-3u7zxy sitelibdir\=./.gem.20241110-39802-3u7zxy install
-/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20241110-39802-3u7zxy/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20241110-60216-apqmw2 sitelibdir\=./.gem.20241110-60216-apqmw2 install
+/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20241110-60216-apqmw2/commonmarker
 
 current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.10/ext/commonmarker
-make DESTDIR\= sitearchdir\=./.gem.20241110-39802-3u7zxy sitelibdir\=./.gem.20241110-39802-3u7zxy clean
+make DESTDIR\= sitearchdir\=./.gem.20241110-60216-apqmw2 sitelibdir\=./.gem.20241110-60216-apqmw2 clean

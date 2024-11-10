@@ -3,17 +3,17 @@ current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby
 creating Makefile
 
 current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
-make DESTDIR\= sitearchdir\=./.gem.20241110-50987-exneui sitelibdir\=./.gem.20241110-50987-exneui clean
+make DESTDIR\= sitearchdir\=./.gem.20241110-60216-snw5ci sitelibdir\=./.gem.20241110-60216-snw5ci clean
 
 current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
-make DESTDIR\= sitearchdir\=./.gem.20241110-50987-exneui sitelibdir\=./.gem.20241110-50987-exneui
+make DESTDIR\= sitearchdir\=./.gem.20241110-60216-snw5ci sitelibdir\=./.gem.20241110-60216-snw5ci
 compiling mapper.cpp
 compiling rubymain.cpp
 linking shared-object fastfilereaderext.so
 
 current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
-make DESTDIR\= sitearchdir\=./.gem.20241110-50987-exneui sitelibdir\=./.gem.20241110-50987-exneui install
-/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20241110-50987-exneui
+make DESTDIR\= sitearchdir\=./.gem.20241110-60216-snw5ci sitelibdir\=./.gem.20241110-60216-snw5ci install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20241110-60216-snw5ci
 
 current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
-make DESTDIR\= sitearchdir\=./.gem.20241110-50987-exneui sitelibdir\=./.gem.20241110-50987-exneui clean
+make DESTDIR\= sitearchdir\=./.gem.20241110-60216-snw5ci sitelibdir\=./.gem.20241110-60216-snw5ci clean

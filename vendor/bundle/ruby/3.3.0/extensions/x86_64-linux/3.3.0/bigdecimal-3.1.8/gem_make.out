@@ -32,17 +32,17 @@ checking for RB_WARN_CATEGORY_DEPRECATED in ruby.h... yes
 creating Makefile
 
 current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.8/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20241110-37437-5fg1me sitelibdir\=./.gem.20241110-37437-5fg1me clean
+make DESTDIR\= sitearchdir\=./.gem.20241110-60216-qcvrz6 sitelibdir\=./.gem.20241110-60216-qcvrz6 clean
 
 current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.8/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20241110-37437-5fg1me sitelibdir\=./.gem.20241110-37437-5fg1me
+make DESTDIR\= sitearchdir\=./.gem.20241110-60216-qcvrz6 sitelibdir\=./.gem.20241110-60216-qcvrz6
 compiling bigdecimal.c
 compiling missing.c
 linking shared-object bigdecimal.so
 
 current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.8/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20241110-37437-5fg1me sitelibdir\=./.gem.20241110-37437-5fg1me install
-/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20241110-37437-5fg1me
+make DESTDIR\= sitearchdir\=./.gem.20241110-60216-qcvrz6 sitelibdir\=./.gem.20241110-60216-qcvrz6 install
+/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20241110-60216-qcvrz6
 
 current directory: /home/jocke/Github/joakimmansson.github.io/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.8/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20241110-37437-5fg1me sitelibdir\=./.gem.20241110-37437-5fg1me clean
+make DESTDIR\= sitearchdir\=./.gem.20241110-60216-qcvrz6 sitelibdir\=./.gem.20241110-60216-qcvrz6 clean
