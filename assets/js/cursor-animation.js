@@ -15,17 +15,18 @@ window.addEventListener("resize", () => {
 // Cursor position and particle settings
 const cursor = { x: window.innerWidth / 2, y: window.innerHeight / 2 };
 const particles = [];
-const numParticles = 20; // Number of particles around the cursor
+const numParticles = 10; // Number of particles around the cursor
 const maxDistance = 80; // Max distance for line connections
-const cursorRadius = 150; // Radius around the cursor where particles are visible
+const cursorRadius = 85; // Radius around the cursor where particles are visible
+const speed_rate = 0.9; // Speed of the particle movement
 
 // Particle class
 class Particle {
   constructor() {
     this.reset();
     this.size = 2 + Math.random() * 2; // Random size for variation
-    this.speedX = Math.random() * 2 - 1; // Random horizontal speed
-    this.speedY = Math.random() * 2 - 1; // Random vertical speed
+    this.speedX = (Math.random() * 2 - 1) * speed_rate; // Random horizontal speed
+    this.speedY = (Math.random() * 2 - 1) * speed_rate; // Random vertical speed
   }
 
   // Reset particle position to be around the cursor
@@ -77,7 +78,7 @@ function connectParticles() {
 
       if (distance < maxDistance) {
         const opacity = 1 - distance / maxDistance; // Fading effect for lines
-        ctx.strokeStyle = `rgba(0, 0, 50, ${opacity})`;
+        ctx.strokeStyle = `rgba(65, 65, 65, ${opacity})`;
         ctx.lineWidth = 0.5;
         ctx.beginPath();
         ctx.moveTo(particles[a].x, particles[a].y);

@@ -1119,6 +1119,6 @@ canvas#cursorCanvas {
   width: 100vw;
   height: 100vh;
   pointer-events: none;
-  z-index: 0; /* Position the canvas behind all other content */
+  z-index: -1; /* Position the canvas behind all other content */
 }
 
