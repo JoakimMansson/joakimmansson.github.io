@@ -31,9 +31,14 @@ common-js:
 
   {{ content }}
 
+  <!-- Canvas for cursor animation -->
+  <canvas id="cursorCanvas"></canvas>
+
   {% include footer.html %}
 
   {% include footer-scripts.html %}
 
+  <!-- Include the JavaScript animation file here -->
+  <script src="{{ '/assets/js/cursor-animation.js' | relative_url }}"></script>
 </body>
 </html>

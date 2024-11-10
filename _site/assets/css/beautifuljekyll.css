@@ -1108,3 +1108,17 @@ pre {
     display: inline-block;
   }
 }
+
+
+/* --- Polygon background --- */
+canvas#cursorCanvas {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: -1; /* Position the canvas behind all other content */
+}
+
