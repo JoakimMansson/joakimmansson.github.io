@@ -66,8 +66,8 @@
 }, 
  
 { 
-"title"    : "Hello World", 
-"desc"     : "Hello World", 
+"title"    : "Hello World!", 
+"desc"     : "Hello World!", 
 "category" : "page", 
 "url"      : "/", 
 "date"     : "January 1, 1970" 
@@ -90,8 +90,8 @@
 }, 
  
 { 
-"title"    : "Hello World", 
-"desc"     : "Hello World", 
+"title"    : "Hello World!", 
+"desc"     : "Hello World!", 
 "category" : "page", 
 "url"      : "/page2/", 
 "date"     : "January 1, 1970" 
