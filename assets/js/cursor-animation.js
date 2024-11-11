@@ -15,9 +15,9 @@ window.addEventListener("resize", () => {
 // Cursor position and particle settings
 const cursor = { x: window.innerWidth / 2, y: window.innerHeight / 2 };
 const particles = [];
-const numParticles = 10; // Number of particles around the cursor
+const numParticles = 70; // Number of particles around the cursor
 const maxDistance = 80; // Max distance for line connections
-const cursorRadius = 85; // Radius around the cursor where particles are visible
+const cursorRadius = 800; // Radius around the cursor where particles are visible
 const speed_rate = 0.9; // Speed of the particle movement
 
 // Particle class
